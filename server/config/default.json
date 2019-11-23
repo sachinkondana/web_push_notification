@@ -1,0 +1,5 @@
+{
+  "port": "4000",
+  "vapid_publicKey": "BMKj2U2qyu-HlijIEiZFAx8pWI65CpUdsTlELtEamy2WMWUCDbS2vRRGzS1pi0DTuB_9Ug3wavGz7x3I22ZOFGI",
+  "vapid_privateKey": "WCX6X2f7XCdKWAdg5UWesaAEFC2_qm9wWNrGKFETkqs"
+}

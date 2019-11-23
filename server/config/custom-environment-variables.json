@@ -1,0 +1,5 @@
+{
+  "port": "PWA_PORT",
+  "vapid_publicKey": "VAPID_PUBLIC_KEY",
+  "vapid_privateKey": "VAPID_PRIVATE_KEY"
+}
