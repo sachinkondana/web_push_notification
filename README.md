@@ -1,5 +1,7 @@
 # web_push_notification
 
+Slides: https://docs.google.com/presentation/d/1WwZTjtcM0FXMtlT7Z6t_LLTOg-_St-8LXW8D0EJCjXo/edit?usp=sharing
+
 ### 1. Client
 
 Demo: https://pwa-frontend-sample-app.herokuapp.com/
