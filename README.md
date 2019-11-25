@@ -20,6 +20,11 @@ curl -X GET \
 
 
 ### 2. Sever - To run server
+You need node installed in your machine and install all depedency packages. Run the bellow commands from `server/`
 
 1. npm istall
 2. node ./index.js
+
+This will run the node server, and show you the URL.
+
+The current implementation wont user any database implementation, it uses the subscription object sent from the client and store it in a cache variable and sends the push to that subscription user. (Last come will get the push :))
