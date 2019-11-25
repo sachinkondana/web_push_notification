@@ -27,4 +27,4 @@ You need node installed in your machine and install all depedency packages. Run 
 
 This will run the node server, and show you the URL.
 
-The current implementation wont user any database implementation, it uses the subscription object sent from the client and store it in a cache variable and sends the push to that subscription user. (Last come will get the push :))
+The current implementation wont use any database implementation, it uses the subscription object sent from the client and store it in a cache variable and sends the push to that subscription user. (Last come will get the push :))
